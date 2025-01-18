@@ -5,7 +5,7 @@ Welcome to the AizoTF! This Flutter-based mobile application allows users to upl
 ---
 
 ## Demo
-Click [here](https://appetize.io/app/b_cbzngsphkxfsu5uqhmz2jmfnea) to go to Apptizer demo.
+Click [here](https://appetize.io/app/b_cbzngsphkxfsu5uqhmz2jmfnea) to go to Appetize.io demo page.
 
 ---
 
