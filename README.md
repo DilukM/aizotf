@@ -4,6 +4,9 @@ Welcome to the AizoTF! This Flutter-based mobile application allows users to upl
 
 ---
 
+## Demo
+Click [here](https://appetize.io/app/b_cbzngsphkxfsu5uqhmz2jmfnea) to go to Apptizer demo.
+
 ## Features
 
 - **Upload Custom TFLite Models**: Users can upload their `.tflite` model files directly into the app.
