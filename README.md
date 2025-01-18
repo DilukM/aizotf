@@ -1,6 +1,6 @@
 # AizoTF - TFLite Model Tester
 
-Welcome to the TFLite Model Tester application! This Flutter-based mobile application allows users to upload and test TensorFlow Lite (TFLite) models to ensure compatibility with mobile devices. The app currently supports **SSD MobileNet models** for both **image classification** and **object detection** tasks.
+Welcome to the AizoTF! This Flutter-based mobile application allows users to upload and test TensorFlow Lite (TFLite) models to ensure compatibility with mobile devices. The app currently supports **SSD MobileNet models** for both **image classification** and **object detection** tasks.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to the TFLite Model Tester application! This Flutter-based mobile applic
 
 To run the application, ensure the following prerequisites are met:
 
-- **Flutter SDK**: Version 3.4.1 or higher
+- **Flutter SDK**: Version 3.0 or higher
 - **Dart SDK**: Compatible with Flutter SDK
 - **Mobile Device**: Running Android 8.0 (Oreo) or later, or iOS 12.0 or later
 
